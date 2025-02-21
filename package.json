@@ -1,7 +1,9 @@
 {
   "name": "@uprootiny/data-pipeline",
   "version": "0.1.0",
+  "description": "Data processing and stream management components",
   "type": "module",
+  "main": "src/main.jsx",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
